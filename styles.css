@@ -14,7 +14,10 @@ p {
 color: red;
 text-align: center;
 }
-
+h3{
+color: blue;
+text-align: center
+}
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
 width: 100%;
